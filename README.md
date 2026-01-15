@@ -1,6 +1,6 @@
 # Danny-s-SQL-Challenge
 ## Solution to Case1 of Danny's 8 week's SQL Challenge. 
-The following description were taken from https://8weeksqlchallenge.com/case-study-1/
+The following description was taken from https://8weeksqlchallenge.com/case-study-1/
 
                                                             Introduction
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
